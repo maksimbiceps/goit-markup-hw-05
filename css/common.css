@@ -6,6 +6,11 @@ body {
   color: #434455;
   background-color: #fff;
 }
+input,
+button {
+  outline: transparent;
+  font-family: inherit;
+}
 
 h1,
 h2 {
